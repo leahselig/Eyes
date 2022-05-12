@@ -1,5 +1,7 @@
 # Eyes Exercise
 
+<img src="EyesScreenshot.jpg" alt="Eyes that move with the movement of your mouse">
+
 This project was part of the course work required in the MIT xPRO Full-Stack development course.
 
 This eyes program allows the user to move the eyes with the movement of the mouse. When you move your mouse around the screen, the eyes follow you!
