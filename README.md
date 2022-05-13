@@ -12,6 +12,10 @@ It utilizes HTML, CSS, and JavaScript.
 
 Download index.html, styles.css and eyes.js files by clicking the green code button. Make sure to save them to the same directory on your computer. Load the index.html file into your browser. Start moving your mouse across the screen to watch the eyes move. 
 
+You can also interact with the page without having to download the files. 
+
+<a href="https://leahselig.github.io/Eyes/"> Try It Out Here! </a>
+
 ## Roadmap
 
 - [ ] Add additional features like eye brows, eye lashes, etc.
